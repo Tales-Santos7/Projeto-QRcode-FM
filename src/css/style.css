@@ -1,0 +1,39 @@
+body {
+    font-family: "Outfit";
+    background-color: hsl(212, 45%, 89%);
+}
+
+section {
+    margin-top: 330px;
+    margin-bottom: 330px;
+    background-color: #fff;
+    padding: 34px;
+    align-content: center;
+    width: 578px;
+    height: 730px;
+    margin-left: 330px;
+    margin-right: 330px;
+    border-radius: 30px;
+    padding-bottom: 70px;
+}
+
+.Imagem-principal {
+    height: 576px;
+    width: 576px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-weight: 800;
+    text-align: center;
+}
+
+p {
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+}
+
+.textos {
+  padding: 10px;
+}
